@@ -14,7 +14,7 @@ export default function Hero(){
           {/*right*/}
           <div className="hero-right-div">
             <h1 className="title-head">
-                 I'm Syeda Rubab <br/>
+                 I am Syeda Rubab <br/>
                  Front-end Developer
             </h1>
             <p className="des-head">
